@@ -1,0 +1,47 @@
+# Binaries
+*target*
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+
+# OS
+.DS_Store
+
+# eclipse specific git ignore
+.classpath
+.settings/
+.project
+
+# Misc
+*.pydevproject
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+test-output/*
+src/main/resources/logs/*
+TestExecutionReport/*
+Output_Files/*
+Resources/*
+
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch

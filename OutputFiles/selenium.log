@@ -1,0 +1,95 @@
+ 00:51:45,199 DEBUG 2020-02-24 00:51:45,199 [main] SetupHelper: Output folder path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles
+ 00:51:45,207 INFO  2020-02-24 00:51:45,207 [main] FileUtility: Folders are already exists in: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles
+ 00:51:45,209 DEBUG 2020-02-24 00:51:45,209 [main] SetupHelper: Resources Folder Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources
+ 00:51:45,209 DEBUG 2020-02-24 00:51:45,209 [main] SetupHelper: Test Data Folder Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources/TestData
+ 00:51:45,210 INFO  2020-02-24 00:51:45,210 [main] FileUtility: Folders are already exists in: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources/TestData
+ 00:51:45,210 DEBUG 2020-02-24 00:51:45,210 [main] SetupHelper: Output folder path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles
+ 00:51:45,210 INFO  2020-02-24 00:51:45,210 [main] SetupHelper: Screenshot folder Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles/Screenshots
+ 00:51:45,211 INFO  2020-02-24 00:51:45,211 [main] FileUtility: Folders are already exists in: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles/Screenshots
+ 00:51:45,211 DEBUG 2020-02-24 00:51:45,211 [main] SetupHelper: Output folder path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles
+ 00:51:45,211 DEBUG 2020-02-24 00:51:45,211 [main] SetupHelper: Selenium Log Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles/selenium.log
+ 00:51:45,212 INFO  2020-02-24 00:51:45,212 [main] FileUtility: File already exists in:/Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles/selenium.log
+ 00:51:45,212 DEBUG 2020-02-24 00:51:45,212 [main] SetupHelper: Output folder path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles
+ 00:51:45,212 DEBUG 2020-02-24 00:51:45,212 [main] SetupHelper: Extent Report Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles/report.html
+ 00:51:45,212 INFO  2020-02-24 00:51:45,212 [main] FileUtility: File already exists in:/Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles/report.html
+ 00:51:45,213 DEBUG 2020-02-24 00:51:45,213 [main] SetupHelper: Output folder path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles
+ 00:51:45,213 INFO  2020-02-24 00:51:45,213 [main] SetupHelper: Screenshot folder Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles/Screenshots
+ 00:51:45,217 DEBUG 2020-02-24 00:51:45,217 [main] SetupHelper: Resources Folder Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources
+ 00:51:45,218 DEBUG 2020-02-24 00:51:45,218 [main] SetupHelper: Test Data Folder Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources/TestData
+ 00:51:45,218 DEBUG 2020-02-24 00:51:45,218 [main] SetupHelper: Excel File Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources/TestData/Test-Cases.xlsx
+ 00:51:45,219 DEBUG 2020-02-24 00:51:45,219 [main] SetupHelper: Resources Folder Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources
+ 00:51:45,219 DEBUG 2020-02-24 00:51:45,219 [main] SetupHelper: Test Data Folder Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources/TestData
+ 00:51:45,220 DEBUG 2020-02-24 00:51:45,220 [main] SetupHelper: Excel File Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources/TestData/Test-Cases.xlsx
+ 00:51:46,335 INFO  2020-02-24 00:51:46,335 [main] BaseTest: Excel file object created
+ 00:51:46,369 DEBUG 2020-02-24 00:51:46,369 [main] SetupHelper: Output folder path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles
+ 00:51:46,369 DEBUG 2020-02-24 00:51:46,369 [main] SetupHelper: Extent Report Path: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/OutputFiles/report.html
+ 00:51:46,605 INFO  2020-02-24 00:51:46,605 [main] WebDriverFactory: OS Name from system property :: mac
+ 00:51:46,605 INFO  2020-02-24 00:51:46,605 [main] WebDriverFactory: Driver Binary :: /Users/shakti/eclipse-workspace/TAFU/tafu_repo/Resources/chromedriver
+ 00:51:46,606 INFO  2020-02-24 00:51:46,606 [main] WebDriverFactory: Initializing Chrome Driver
+ 00:51:54,701 INFO  2020-02-24 00:51:54,701 [main] BaseTest: WebDriver initiated
+ 00:52:01,063 INFO  2020-02-24 00:52:01,063 [main] BaseTest: Application Launched
+ 00:52:01,164 INFO  2020-02-24 00:52:01,164 [main] LoginPage: LoginPage object initialized
+ 00:52:01,164 INFO  2020-02-24 00:52:01,164 [main] LoginPage: Performing login action
+ 00:52:01,290 INFO  2020-02-24 00:52:01,290 [main] ElementActions: Wait until visibility of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath:  //a[@class='login']]
+ 00:52:01,499 INFO  2020-02-24 00:52:01,499 [main] ElementActions: Wait until display of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath:  //a[@class='login']]
+ 00:52:01,570 INFO  2020-02-24 00:52:01,570 [main] ElementActions: Wait until clickability of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath:  //a[@class='login']]
+ 00:52:01,665 INFO  2020-02-24 00:52:01,665 [main] ElementActions: Wait until clickability of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath:  //a[@class='login']]
+ 00:52:01,706 INFO  2020-02-24 00:52:01,706 [main] ElementActions: Mouse click performed on element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath:  //a[@class='login']]
+ 00:52:04,579 INFO  2020-02-24 00:52:04,579 [main] ElementActions: Wait until visibility of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> id: email]
+ 00:52:04,653 INFO  2020-02-24 00:52:04,653 [main] ElementActions: Wait until display of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> id: email]
+ 00:52:04,744 INFO  2020-02-24 00:52:04,744 [main] ElementActions: Text: trigent@gmail.com entered for element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> id: email]
+ 00:52:05,015 INFO  2020-02-24 00:52:05,015 [main] ElementActions: Wait until visibility of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> id: passwd]
+ 00:52:05,065 INFO  2020-02-24 00:52:05,065 [main] ElementActions: Wait until display of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> id: passwd]
+ 00:52:05,150 INFO  2020-02-24 00:52:05,150 [main] ElementActions: Text: tafu@123 entered for element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> id: passwd]
+ 00:52:05,280 INFO  2020-02-24 00:52:05,280 [main] ElementActions: Wait until visibility of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath: //p[@class='submit']//span[1]]
+ 00:52:05,339 INFO  2020-02-24 00:52:05,339 [main] ElementActions: Wait until display of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath: //p[@class='submit']//span[1]]
+ 00:52:05,382 INFO  2020-02-24 00:52:05,382 [main] ElementActions: Wait until clickability of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath: //p[@class='submit']//span[1]]
+ 00:52:05,438 INFO  2020-02-24 00:52:05,438 [main] ElementActions: Wait until clickability of element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath: //p[@class='submit']//span[1]]
+ 00:52:05,490 INFO  2020-02-24 00:52:05,490 [main] ElementActions: Mouse click performed on element: [[ChromeDriver: chrome on MAC (241c3d66027d84af39dc0197f33c86ba)] -> xpath: //p[@class='submit']//span[1]]
+ 00:52:08,040 INFO  2020-02-24 00:52:08,040 [main] LoginTest: Performed login to application
+ 00:52:08,061 INFO  2020-02-24 00:52:08,061 [main] BaseTest: Login test is Passed.
+ 00:52:08,325 INFO  2020-02-24 00:52:08,325 [main] BaseTest: Browser closed
+ 00:52:10,560 DEBUG 2020-02-24 00:52:10,560 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:10,562 DEBUG 2020-02-24 00:52:10,562 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+ 00:52:10,565 DEBUG 2020-02-24 00:52:10,565 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+ 00:52:10,566 DEBUG 2020-02-24 00:52:10,566 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+ 00:52:10,998 DEBUG 2020-02-24 00:52:10,998 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:10,999 DEBUG 2020-02-24 00:52:10,999 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+ 00:52:11,000 DEBUG 2020-02-24 00:52:11,000 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+ 00:52:11,003 DEBUG 2020-02-24 00:52:11,003 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+ 00:52:11,007 DEBUG 2020-02-24 00:52:11,007 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,010 DEBUG 2020-02-24 00:52:11,010 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+ 00:52:11,011 DEBUG 2020-02-24 00:52:11,011 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+ 00:52:11,011 DEBUG 2020-02-24 00:52:11,011 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+ 00:52:11,024 DEBUG 2020-02-24 00:52:11,024 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,025 DEBUG 2020-02-24 00:52:11,025 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+ 00:52:11,026 DEBUG 2020-02-24 00:52:11,026 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+ 00:52:11,026 DEBUG 2020-02-24 00:52:11,026 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+ 00:52:11,048 DEBUG 2020-02-24 00:52:11,048 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,049 DEBUG 2020-02-24 00:52:11,049 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+ 00:52:11,050 DEBUG 2020-02-24 00:52:11,050 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+ 00:52:11,059 DEBUG 2020-02-24 00:52:11,059 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+ 00:52:11,078 DEBUG 2020-02-24 00:52:11,078 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,079 DEBUG 2020-02-24 00:52:11,079 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+ 00:52:11,080 DEBUG 2020-02-24 00:52:11,080 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+ 00:52:11,081 DEBUG 2020-02-24 00:52:11,081 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+ 00:52:11,130 DEBUG 2020-02-24 00:52:11,130 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,131 DEBUG 2020-02-24 00:52:11,131 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+ 00:52:11,142 DEBUG 2020-02-24 00:52:11,142 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+ 00:52:11,144 DEBUG 2020-02-24 00:52:11,144 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+ 00:52:11,155 DEBUG 2020-02-24 00:52:11,155 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,157 DEBUG 2020-02-24 00:52:11,157 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+ 00:52:11,157 DEBUG 2020-02-24 00:52:11,157 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+ 00:52:11,158 DEBUG 2020-02-24 00:52:11,158 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+ 00:52:11,162 DEBUG 2020-02-24 00:52:11,162 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,163 DEBUG 2020-02-24 00:52:11,163 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+ 00:52:11,164 DEBUG 2020-02-24 00:52:11,164 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+ 00:52:11,164 DEBUG 2020-02-24 00:52:11,164 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+ 00:52:11,171 DEBUG 2020-02-24 00:52:11,171 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,172 DEBUG 2020-02-24 00:52:11,172 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+ 00:52:11,173 DEBUG 2020-02-24 00:52:11,173 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+ 00:52:11,173 DEBUG 2020-02-24 00:52:11,173 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+ 00:52:11,183 DEBUG 2020-02-24 00:52:11,183 [main] _Log4jLoggerFactory$Log4jLogger: Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 00:52:11,186 DEBUG 2020-02-24 00:52:11,186 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+ 00:52:11,186 DEBUG 2020-02-24 00:52:11,186 [main] _Log4jLoggerFactory$Log4jLogger: TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+ 00:52:11,187 DEBUG 2020-02-24 00:52:11,187 [main] _Log4jLoggerFactory$Log4jLogger: Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/shakti/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
